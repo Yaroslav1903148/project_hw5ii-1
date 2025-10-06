@@ -27,3 +27,4 @@ void Vcar::showAll() const
 	cout << "Price: " << all << endl;
 	cout << "--------------------------------------------\n";
 }
+
